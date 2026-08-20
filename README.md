@@ -55,6 +55,26 @@ Three GPOs were created and linked, each demonstrating a different policy catego
 - PowerShell scripting for AD administration and log auditing
 - VirtualBox networking (NAT Network configuration, static IP assignment)
 
+## Screenshots
+
+### Organizational Unit Structure
+![OU Structure](screenshots/ou-structure.png)
+
+### Group Policy Objects
+![Group Policies](screenshots/group-policies.png)
+
+### GPO Enforcement Verification
+![GPO Enforced](screenshots/gpo-enforced.png)
+
+### Group Membership Report
+![Group Membership Report](screenshots/group-membership-report.png)
+
+### Login Audit
+![Login Audit](screenshots/login-audit.png)
+
+### Failed Login Audit
+![Failed Login Audit](screenshots/failed-login-audit.png)
+
 ## Notes
 
 This is a lab/learning environment, not a production deployment — passwords and configurations here are intentionally simplified for demonstration purposes and would not reflect production security practices.
